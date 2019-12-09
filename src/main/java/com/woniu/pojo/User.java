@@ -16,5 +16,11 @@ public class User {
 	public void setUname(String uname) {
 		this.uname = uname;
 	}
+	public Integer getAge() {
+		return age;
+	}
+	public void setAge(Integer age) {
+		this.age = age;
+	}
 	
 }
