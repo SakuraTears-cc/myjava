@@ -3,6 +3,7 @@ package com.woniu.pojo;
 public class User {
 	private Integer uid;
 	private String uname;
+        private Integer age;
 	public Integer getUid() {
 		return uid;
 	}
